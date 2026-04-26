@@ -4,6 +4,9 @@
 **正在学习 Python & C**
 
 </div>
+### 🐷 目标：成为一头猪
+![成为一头猪进度条](https://geps.dev/progress/65?icon=🐷&iconColor=ffb6c1&color=ffc0cb&bgColor=1e1e2e)
+<small>正在努力干饭中…</small>
 
 ---
 
@@ -21,8 +24,3 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfwqgbD0ly/giphy.gif" width="100">
-  <br>
-  <em>正在努力成为一头猪 🐷</em>
-</div>
