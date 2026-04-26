@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Jensen;Learning+Python+Everyday;Keep+Moving!">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=fadeIn">
-</div>
 
 ---
 
@@ -23,7 +21,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=footer&animation=slide">
-</div>
