@@ -1,8 +1,6 @@
-# Jensen
-<div align="center">
-  <h2>Hi 👋 欢迎来到我的主页</h2>
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Jensen;Learning+Python+Everyday;Keep+Moving!">
+</p>
 ---
 
 ### 🧑‍💻 关于我
