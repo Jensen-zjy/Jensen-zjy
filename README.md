@@ -20,4 +20,11 @@
   <img src="https://readme-badges.vercel.app/api/badges/custom?text=Learning&color=blue&icon=book&iconColor=white&style=for-the-badge&animation=pulse">
 </div>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jensen-zjy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=a6adc8)
+<div align="center">
+  <img src="https://media.giphy.com/media/xT5LMHxhOfwqgbD0ly/giphy.gif" width="100">
+  <br>
+  <em>正在努力向目标靠近中 🐷</em>
+</div>
+
 ---
