@@ -6,7 +6,7 @@
 ### 🧩 关于我
 - 📚 目前在学：Python 基础 & C
 - 🎯 目标：变成一头猪
-- ✨ 格言：Don't let your fear stops your way to success.
+- ✨ 格言：Don't let your fear stop your way to success.
 
 ---
 
